@@ -1,0 +1,6 @@
+O GitHub é como uma “rede social” para programadores, mas em vez de postar fotos ou mensagens, você posta códigos.
+- Ele guarda seus projetos de programação na nuvem, assim você pode acessar de qualquer lugar.
+- Permite que várias pessoas trabalhem juntas no mesmo projeto sem bagunça, cada uma fazendo suas partes e depois juntando tudo.
+- Funciona como uma vitrine: você pode mostrar seus trabalhos para outras pessoas, empresas ou colegas.
+- Além disso, você pode olhar projetos de outros, aprender com eles e até colaborar.
+Pense no GitHub como um Google Drive especial para códigos, mas com ferramentas que ajudam a organizar, controlar versões e trabalhar em equipe.
